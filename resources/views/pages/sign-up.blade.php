@@ -6,7 +6,7 @@
             <form action="{{ route( 'ns.register.post' ) }}" method="post" id="sign-in-box" class="w-full md:w-1/3">
                 @csrf
                 <div class="flex justify-center items-center py-6">
-                    <h2 class="text-6xl font-bold text-transparent bg-clip-text from-blue-500 to-teal-500 bg-gradient-to-br">NexoPOS</h2>
+                    <h2 class="text-6xl font-bold text-transparent bg-clip-text from-blue-500 to-teal-500 bg-gradient-to-br">APOS</h2>
                 </div>
                 <div class="bg-white rounded shadow overflow-hidden">
                     <div class="p-3 -my-2">

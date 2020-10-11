@@ -28,6 +28,6 @@ trait App {
 
     static function pageTitle( $string )
     {
-        return sprintf( __( '%s &mdash; NexoPOS 4' ), $string );
+        return sprintf( __( '%s &mdash; APOS 1.0' ), $string );
     }
 }
